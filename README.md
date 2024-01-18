@@ -2,4 +2,5 @@
 My repo for all the leetcode blind 75 problems that i will try to do in javascript and python.
 These solutions may not always be the best ones but i wanted to share this.
 
-[Untitled document (12).docx](https://github.com/Waleeed-sheikh/LEETCODE-BLIND-75/files/13981902/Untitled.document.12.docx)
+
+![WhatsApp Image 2024-01-19 at 02 44 13](https://github.com/Waleeed-sheikh/LEETCODE-BLIND-75/assets/146780047/942541cf-be56-4a41-afe1-afdb5fb2ba09)
