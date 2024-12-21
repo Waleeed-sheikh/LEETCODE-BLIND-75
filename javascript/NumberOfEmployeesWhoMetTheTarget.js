@@ -18,12 +18,11 @@
 // - Employee 4 worked for 4 hours and met the target.
 // There are 3 employees who met the target.
 // Example 2:
-
 // Input: hours = [5,1,4,2,2], target = 6
 // Output: 0
 // Explanation: The company wants each employee to work for at least 6 hours.
 // There are 0 employees who met the target.
- 
+
 var numberOfEmployeesWhoMetTarget = function(hours, target) {
     let goodEmployees=hours.filter(function(hours){
         return hours>=target
