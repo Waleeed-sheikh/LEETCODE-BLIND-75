@@ -2,8 +2,6 @@
 // anagrams
 //  together. You can return the answer in any order.
 
- 
-
 // Example 1:
 
 // Input: strs = ["eat","tea","tan","ate","nat","bat"]
@@ -26,8 +24,6 @@
 // Input: strs = ["a"]
 
 // Output: [["a"]]
-
- 
 
 // Constraints:
 
